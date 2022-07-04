@@ -4,5 +4,7 @@ public class Gitexerce {
         System.out.println("version2");
         System.out.println("childVersion2");
         System.out.println("master3");
+        System.out.println("pushtest");
+        System.out.println("pushteseteawagewag");
     }
 }

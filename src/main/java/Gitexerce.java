@@ -6,5 +6,6 @@ public class Gitexerce {
         System.out.println("master3");
         System.out.println("pushtest");
         System.out.println("pushteseteawagewag");
+        System.out.println("pullTest")
     }
 }

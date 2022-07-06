@@ -1,3 +1,5 @@
+import java.sql.SQLOutput;
+
 public class Gitexerce {
     public static void main(String[] args) {
         System.out.println("version1");
@@ -7,5 +9,6 @@ public class Gitexerce {
         System.out.println("pushtest");
         System.out.println("pushteseteawagewag");
         System.out.println("pullTest");
+        System.out.println("teset22222");
     }
 }
